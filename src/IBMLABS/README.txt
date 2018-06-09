@@ -7,6 +7,8 @@ CallforCodeDayPlan-Worksheet.xlsx: Detailed planning worksheet to use in running
 
 CallforCodeDayPlan.pdf: A graphical field guide that introduces the methodology and provides example timetables and agendas for running the Call for Code Day for your organization.
 
+callSocial.png: Banner for your team members to use in social media to announce their participation in the Call for Code.
+
 emailBanner.jpg: A banner to paste at the top of all nurture email messages.
 
 emailSample1.pdf: Sample email that can be used to introduce the Call for Code to developers in your organization and announce the upcoming Call for Code Day.
@@ -20,8 +22,6 @@ emailSample4.pdf: Sample email to let IBMers know about project registration, th
 emailSample5.pdf: Sample email to use for thanking all users that participated.
 
 overviewPresentation.pdf: Presentation on the Call for Code that you may use to communicate with your organization.
-
-pushSocial.png: Banner for your team members to use in social media to announce their participation in the Call for Code.
 
 labdayFAQ.pdf: A number of common questions and answers about the IBM Lab Call for Code days.
 
