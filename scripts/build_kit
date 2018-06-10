@@ -37,4 +37,4 @@ done
 
 # clean up build directory
 cd ../..
-# rm -rf src/build/${1}
+rm -rf src/build/${1}
