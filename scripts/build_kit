@@ -4,34 +4,37 @@
 # usage (from top of repo):
 #   $ build_zip COMMIT|PUSH|WHATEVER
 
-mkdir -p src/build/${1}
+mkdir -p src/build/${1}/FILES
 
-cp -p src/${1}/*.pdf src/build/${1}
-cp -p src/${1}/*.png src/build/${1}
-cp -p src/${1}/README.txt src/build/${1}
+cp -p src/${1}/*.pdf src/build/${1}/FILES
+cp -p src/${1}/*.png src/build/${1}/FILES
+cp -p src/${1}/README.txt src/build/${1}/FILES
 
 
 # copy up any presentation source files if present
-cp -p src/${1}/*.pptx src/build/${1} 2>/dev/null
+cp -p src/${1}/*.pptx src/build/${1}/FILES 2>/dev/null
 
 # copy up any worksheet source files if present
-cp -p src/${1}/*.xlsx src/build/${1} 2>/dev/null
+cp -p src/${1}/*.xlsx src/build/${1}/FILES 2>/dev/null
+
+# copy Start here to top level
+cp -p src/${1}/StartHere.pdf src/build/${1}
 
 # create zip file and push it to the download zone
 cd src/build
-zip $(tr '[:upper:]' '[:lower:]'<<<${1})Kit.zip ${1}/*
+zip -r $(tr '[:upper:]' '[:lower:]'<<<${1})Kit.zip ${1}/*
 mv $(tr '[:upper:]' '[:lower:]'<<<${1})Kit.zip ../../${1}
 
 
 # push any newer files in build directory to download zone
-for file in `ls ${1}`
+for file in `ls ${1}/FILES`
 do
-  if [ ${1}/$file -nt ../../${1}/$file ];
+  if [ ${1}/FILES/$file -nt ../../${1}/$file ];
   then
-    cp ${1}/$file ../../${1}/$file
+    cp ${1}/FILES/$file ../../${1}/$file
   fi
 done
 
 # clean up build directory
 cd ../..
-rm -rf src/build/${1}
+# rm -rf src/build/${1}
