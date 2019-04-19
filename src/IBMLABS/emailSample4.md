@@ -8,12 +8,12 @@
 
 Team,
 
-I wanted to drop a quick email in your inbox to remind you that Call for Code submissions must be submitted by 31st August.
+I wanted to drop a quick email in your inbox to remind you that Call for Code submissions must be submitted by June 28.
 
 You can register on the challenge platform and submit your project here:
 
-[ insert link provided by the IBM Call for Code core team ]
+[ insert link provided by the Call for Code team ]
 
-For those of you that joined us in our Call for Code day, thank you! And those that did not, there's still time to form or join a team and get working on a submission. You're helping to show the world that developers have the power to affect real, positive change in society.
+For those of you that joined us in our Call for Code Day, thank you! And those that did not, there's still time to form or join a team and get working on a submission. You're helping to show the world that developers have the power to affect real, positive change in society.
 
-I'm proud to see you've chosen to be a part of this initiative, representing yourself and all of us here in the world's largest developer challenge. Keeping my fingers crossed that I'll be seeing one of you receiving the IBMer challenge prize and being able to attend the *Call for Code Global Prize Event* in October! Good luck, and thank you again for your commitment to the cause.
+I'm proud to see you've chosen to be a part of this initiative, representing yourself and all of us here in the world's largest developer challenge. Keeping my fingers crossed that I'll be seeing one of you receiving the IBMer challenge prize. Good luck, and thank you again for your commitment to the cause.
