@@ -9,8 +9,8 @@
 
 Team,
 
-A little while ago, I reached out to you about an incredibly worthwhile developer challenge called Call for Code. Our Call for Code day is just around the corner and will be held at [location and time]
+A while ago, I reached out to you about the 2019 Call for Code Global Challenge — specifically the IBMer challenge. Our Call for Code Day is just around the corner and will be held at [location and time].
 
-This week, be sure you spend some time with the specific, free, and deep dive training for you to learn about the use cases and reference patterns that you can deploy on IBM Cloud at developer.ibm.com/callforcode. There's focus on areas like AI, Cloud, IoT, and Blockchain and will help you build up your knowledge and skills to get ready for our Call for Code day.
+This week, be sure you spend some time with the specific, free, and deep dive training for you to learn about the use cases and reference patterns that you can deploy on IBM Cloud at developer.ibm.com/code-and-response. There, you'll find enablement content on areas like AI, cloud, IoT, and blockchain and will help you build up your knowledge and skills to get ready for our Call for Code Day.
 
-Call for Code is a fantastic way for you to get new skills while working towards solving one of mankind's biggest problems. I'm looking forward to kicking off our lab's contributions in our upcoming event.
+The 2019 Call for Code Global Challenge is a fantastic way for you to get new skills while working towards solving one of mankind's biggest problems. I'm looking forward to kicking off our lab's contributions in our upcoming event.
