@@ -15,7 +15,7 @@ cd src/${1}
 for mdfile in `ls *.md`
 do
   pdffile=${mdfile%.md}.pdf
-  if [ "$mdfile" -nt "$pdffile" ];
+  if [ true ];
   then
     echo "converting ${mdfile} because it is newer than ${pdffile}"
     docker run -v `pwd`:/source jagregory/pandoc $mdfile -o $pdffile --listings -H listings-setup.tex -f markdown_github+escaped_line_breaks --latex-engine=xelatex -V mainfont="Droid Sans" -V geometry:margin=1in
