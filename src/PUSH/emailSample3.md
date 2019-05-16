@@ -5,6 +5,8 @@
 
 **Body:**
 
+![Call for Code Email Banner](https://github.com/IBM/digital-call-kits/blob/master/src/PUSH/CallforCodeEmailBanner.png)
+
 Team,
 
 I'd like to extend my personal thanks to everyone who came together for our Call for Code Day last week. Everyone put their hearts, minds and time into answering the call. Let's keep the momentum going and take the input that you've received and apply it to make your solution rock solid and ready to submit.
