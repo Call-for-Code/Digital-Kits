@@ -6,7 +6,7 @@
 
 **Body:**
 
-![Call for Code Email Banner](https://github.com/IBM/digital-call-kits/blob/master/src/PUSH/CallforCodeEmailBanner.png)
+![Call for Code Email Banner](https://raw.githubusercontent.com/IBM/digital-call-kits/master/src/PUSH/CallforCodeEmailBanner.png)
 
 Team,
 
