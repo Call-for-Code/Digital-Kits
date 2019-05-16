@@ -6,6 +6,8 @@
 
 **Body:**
 
+![Call for Code Email Banner](https://github.com/IBM/digital-call-kits/blob/master/src/PUSH/CallforCodeEmailBanner.png)
+
 Team,
 
 I wanted make you all aware of a developer-focused global challenge to help improve disaster preparedness using technology. It's called Call for Code, and I'm proud to tell you that as a company, we are committing to this cause and will run a Call for Code day on [insert date]. Call for Code is supporting the UN Human Rights office, and The International Network of The American Red Cross, with the technology being provided for free by IBM.
