@@ -9,8 +9,8 @@
 
 Team,
 
-I wanted to drop a quick email in your inbox to remind you that Call for Code submissions must be submitted by July 29th, 2019.
+Just a quick reminder that your Call for Code submissions must be submitted by July 29th, 2019. For those of you that have already submitted, thank you! You're helping to show the world that developers have the power to affect real, positive change in society.
 
-For those of you that have already submitted, thank you! You're helping to show the world that developers have the power to affect real, positive change in society.
+I'm proud to see you've chosen to be a part of this initiative, representing yourself and all of us here in the world's largest developer challenge. Keeping my fingers crossed that you'll be receiving the cash prize and holding up the global award! 
 
-I'm proud to see you've chosen to be a part of this initiative, representing yourself and all of us here in the world's largest developer challenge. Keeping my fingers crossed that I'll be seeing one of you receiving the cash prize and holding up the award from the United Nations Human Rights office! Good luck, and thank you again for your commitment to the cause.
+Good luck, and thank you again for your commitment to the cause.
