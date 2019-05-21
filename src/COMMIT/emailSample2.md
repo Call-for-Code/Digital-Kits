@@ -1,4 +1,4 @@
-**SEND:** On June 25, 2018 or at least 2 weeks after initial email  
+**SEND:** On April 8, 2019 or at least 2 weeks after initial email  
 **REPLACE:** "[Sign up for the challenge here]" with your unique link  
 **From:** Org Leader  
 **To:** Org Developers  
