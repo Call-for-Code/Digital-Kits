@@ -10,7 +10,7 @@ It's primary purpose is so you can send emails to those who have signed up, but 
 -->
 
 **When do I have to do it by?**  
-The emails have a suggested date on them. There are 4 emails to forward in total between when you Commit to the Cause and last email being sent approximately September 3rd, 2018.
+The emails have a suggested date on them. There are 4 emails to forward in total between when you Commit to the Cause and last email being sent approximately June 29th, 2019.
 
 **What does my organization get by doing this?**  
 You'll be officially recognized by the Call for Code initiative once you organization's twitter tweets with our hashtag and provided social image. If a significant amount of developers sign up using your unique code, you'll receive tickets to the award event in October, and if your developers win the challenge your company name will be announced at the award event.
