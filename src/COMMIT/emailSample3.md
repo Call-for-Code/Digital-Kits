@@ -1,4 +1,4 @@
-**SEND:** On June 29th, 2019.  
+**SEND:** On July 15, 2019  
 **From:** Org Leader  
 **To:** Registered Developers  
 **Subject:** Call for Code Global Developer Challenge closes soon!  
