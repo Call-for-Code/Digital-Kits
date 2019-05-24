@@ -12,14 +12,22 @@ cp scripts/listings-setup.tex src/${1}
 
 cd src/${1}
 
+COUNT=0
 for mdfile in `ls *.md`
 do
   pdffile=${mdfile%.md}.pdf
-  if [ true ];
+  if [ $mdfile -nt $pdffile ];
   then
     echo "converting ${mdfile} because it is newer than ${pdffile}"
     docker run -v `pwd`:/source jagregory/pandoc $mdfile -o $pdffile --listings -H listings-setup.tex -f markdown_github+escaped_line_breaks --variable urlcolor=blue --latex-engine=xelatex -V mainfont="Droid Sans" -V geometry:margin=1in
+  COUNT=$((COUNT+1))
   fi
 done
 
+if [ $COUNT -gt 0 ];
+then
+  echo "${COUNT} file(s) converted"
+else
+  echo "No updates to .md files to covert to .pdf"
+fi
 rm listings-setup.tex
